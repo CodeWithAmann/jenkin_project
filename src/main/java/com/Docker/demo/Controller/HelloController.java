@@ -10,7 +10,7 @@ public class HelloController {
 	@GetMapping("/message")
 	public String getMessage()
 	{
-		return "Hello EveryOne";
+		return "Hello EveryOne Aman singh This Side";
 	}
 	
 
